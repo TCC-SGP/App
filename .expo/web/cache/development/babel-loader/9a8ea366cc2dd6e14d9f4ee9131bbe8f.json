@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React, { useState, useEffect } from 'react';","map":{"version":3,"sources":["C:/Users/Tati/Desktop/TCC/app/sgp/src/pages/Home.js"],"names":["React","useState","useEffect"],"mappings":"AAAA,OAAOA,KAAP,IAAcC,QAAd,EAAuBC,SAAvB,QAAuC,OAAvC","sourcesContent":["import React,{useState,useEffect} from 'react';"]},"metadata":{},"sourceType":"module"}
